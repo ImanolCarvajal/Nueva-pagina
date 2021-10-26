@@ -1,0 +1,17 @@
+body {
+background-color:white;
+}
+#exterior {
+background: black;
+}
+.exterior {
+background-color: black;
+;
+border-bottom: thick solid black;
+}
+.interior {
+border-radius: 1em;
+margin-left: 5em
+margin- right 5em;
+background-color: yellow
+}
